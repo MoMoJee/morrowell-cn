@@ -1,0 +1,13 @@
+<svg width="1600" height="900" viewBox="0 0 1600 900" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="1600" height="900" fill="#EEF6F5"/>
+  <circle cx="287" cy="178" r="246" fill="#BEE7DE"/>
+  <circle cx="1337" cy="275" r="190" fill="#D7EAF8"/>
+  <rect x="120" y="120" width="1360" height="660" rx="48" fill="white" fill-opacity="0.65" stroke="#D2E8E2"/>
+  <text x="180" y="270" fill="#4CA18F" font-family="Arial, sans-serif" font-size="30" font-weight="700" letter-spacing="10">PERSONAL HOMEPAGE</text>
+  <text x="180" y="390" fill="#17312C" font-family="Arial, sans-serif" font-size="92" font-weight="700">Software, sensing,</text>
+  <text x="180" y="500" fill="#17312C" font-family="Arial, sans-serif" font-size="92" font-weight="700">and embodied systems.</text>
+  <text x="180" y="610" fill="#54736E" font-family="Arial, sans-serif" font-size="40">Vue 3 · Vite · TypeScript · GitHub Pages</text>
+  <rect x="180" y="676" width="244" height="56" rx="28" fill="#70C4B1"/>
+  <text x="228" y="712" fill="white" font-family="Arial, sans-serif" font-size="28" font-weight="700">MoMoJee</text>
+</svg>
+
